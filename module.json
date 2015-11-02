@@ -1,0 +1,21 @@
+{
+  "name": "cmsis-core-nxp",
+  "version": "0.1.0",
+  "description": "CMSIS Core Implementation for NXP MCUs",
+  "keywords": [
+    "cmsis"
+  ],
+  "author": "Bangaragiri G <bangaragiri.g@nxp.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/cmsis-core-nxp.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/cmsis-core-nxp",
+  "license": "Apache-2",
+  "dependencies": {},
+  "targetDependencies": {
+    "jn517x": {
+      "cmsis-core-nxp-jn517x": "~0.1.0"
+    }
+  }
+}
