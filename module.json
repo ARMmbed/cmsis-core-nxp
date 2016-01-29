@@ -16,6 +16,9 @@
   "targetDependencies": {
     "jn517x": {
       "cmsis-core-nxp-jn517x": "~0.1.0"
+    },
+    "lpc1768": {
+      "cmsis-core-nxp-lpc1768": "~0.1.0"
     }
   }
 }
